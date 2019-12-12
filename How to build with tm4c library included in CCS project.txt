@@ -1,0 +1,30 @@
+0. Software installation
+- C:\ti\ccs920
+- C:\ti\TivaWare_C_Series-2.1.4.178
+- Sample code for Tiva C in C:\ti\TivaWare_C_Series-2.1.4.178\examples
+  This document use C:\ti\TivaWare_C_Series-2.1.4.178\examples\peripherals\uart\uart_loopback.c
+
+1. Build  > ARM Compiler > Include Options
+For 'Add dir to #include search path (--include_path, -I)'
+
+    ${TI_PRODUCTS_DIR}/TivaWare_C_Series-2.1.4.178  --> C:/ti/TivaWare_C_Series-2.1.4.178
+
+    
+2. Build > ARM Linker > File Search Path
+For 'Include library file or command files as input (--library, -l)'
+Add
+    libdriver.a
+
+For ' Add <dir> to library search path (--search_path, -i)'
+Add
+    ${TI_PRODUCTS_DIR}/TivaWare_C_Series-2.1.4.178/driverlib/gcc  --> C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc
+
+
+Note:
+CG_TOOL_ROOT      is path  C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.3.LTS
+TI_PRODUCTS_DIR   is path  C:/ti
+
+- To add a new path with CCS PATH vairable
+Click 'Add...'
+Click 'Variables...' in 'Add directory path' window
+Select TI_PRODUCTS_DIR vairable then click 'Extend...' button to navigate to TivaWare_C_Series directory
