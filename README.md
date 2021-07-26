@@ -13,29 +13,40 @@ Examples for:
 - Or just copy TivaWare_C_Series-2.1.4.178 folder to C:\ti\
 
 # Documents
+
+## Data Sheet
 [PDF] Tiva™ TM4C123GH6PM Microcontroller DATA SHEET
 http://www.ti.com/lit/ds/spms376e/spms376e.pdf
 
-[PDF] TivaWare™ Peripheral Driver Library
-TivaWare for C Series Peripheral Driver Library User Guide
-http://software-dl.ti.com/tiva-c/SW-TM4C/latest/exports/SW-TM4C-DRL-UG-2.1.4.178.pdf
+## User Guides
+[PDF] Getting Started with TivaWare™ for C Series
+https://www.ti.com/lit/pdf/SPMU373
 
-[PDF] TivaWare™ Sensor Library
-TivaWare for C Series Sensor Library User Guide
-http://software-dl.ti.com/tiva-c/SW-TM4C/latest/exports/SW-TM4C-SENSORLIB-UG-2.1.4.178.pdf
+[PDF] TivaWare™ Sensor Library for C Series User's Guide (Rev. E)
+https://www.ti.com/lit/pdf/SPMU371E
 
-[PDF] TivaWare™ Boot Loader
-http://software-dl.ti.com/tiva-c/SW-TM4C/latest/exports/SW-TM4C-BOOTLDR-UG-2.1.4.178.pdf
+[PDF] TivaWare™ USB Library for C Series User's Guide (Rev. E)
+https://www.ti.com/lit/pdf/SPMU297E
 
-[PDF] TivaWare™ USB Library
-TivaWare for C Series USB Library User Guide
-http://software-dl.ti.com/tiva-c/SW-TM4C/latest/exports/SW-TM4C-USBL-UG-2.1.4.178.pdf
+[PDF] TivaWare™ Graphics Library for C Series User's Guide (Rev. E)
+https://www.ti.com/lit/pdf/SPMU300E
 
-[PDF] TivaWare™ Graphics Library
-TivaWare for C Series Graphics Library User Guide
-http://software-dl.ti.com/tiva-c/SW-TM4C/latest/exports/SW-TM4C-GRL-UG-2.1.4.178.pdf
+[PDF] TivaWare™ Peripheral Driver Library for C Series User's Guide (Rev. E)
+https://www.ti.com/lit/pdf/SPMU298E
 
-[PDF] TivaWare™ Graphics Library Display Drivers
-Tiva™ C Series Graphics Library Display Drivers
-http://www.ti.com/lit/an/spma055/spma055.pdf
+[PDF] TivaWare™ Bootloader for C Series User's Guide (Rev. E)
+https://www.ti.com/lit/pdf/SPMU301E
+
+[PDF] TivaWare™ for C Series Release Notes SW-TM4C-RLN-2.2.0.295 (Rev. F)
+https://www.ti.com/lit/pdf/SPMU299F
+
+## 	Application note
+[PDF] Tiva™ C Series Graphics Library Display Drivers
+https://www.ti.com/lit/pdf/SPMA055
+
+[PDF] Tiva™ C Series Application Update Using the USB DFU Class
+https://www.ti.com/lit/pdf/SPMA054
+
+[PDF] Migrating Software Projects from StellarisWare to TivaWare for C Series Software (Rev. A)
+https://www.ti.com/lit/pdf/SPMA050A
 
